@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Core\WebDriverSingletone.cs" />
+    <Compile Include="CustomTypes\CalculatorTypes.cs" />
     <Compile Include="PageObjects\IndividualsPage.cs" />
     <Compile Include="PageObjects\MortgagePage.cs" />
     <Compile Include="PageObjects\MortgagePaymentCalculatorPage.cs" />
